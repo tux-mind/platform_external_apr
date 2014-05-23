@@ -71,7 +71,7 @@
 
 #define APR_HAVE_ARPA_INET_H     1
 #define APR_HAVE_CONIO_H         0
-#define APR_HAVE_CRYPT_H         0
+#define APR_HAVE_CRYPT_H         1
 #define APR_HAVE_CTYPE_H         1
 #define APR_HAVE_DIRENT_H        1
 #define APR_HAVE_ERRNO_H         1
